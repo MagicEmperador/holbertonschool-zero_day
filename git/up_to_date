@@ -1,1 +1,1 @@
-pour mettre les informations a jour j'ai utiliser la fonction git fetch afin de récupérer les informations et git merge afin de les fusionner avec mon local
+git pull
